@@ -1,8 +1,5 @@
 ## SSAFY 13th MobileTrack 최재필 👋
 [![Solved.ac m_x](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x)
-**wovlf/wovlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
