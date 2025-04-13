@@ -1,6 +1,6 @@
 # 최재필 Choi JaePil
 
-<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=black"/> Android Developer  
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> Android Developer  
 
  📝 Electronic Engineering
  <br>
