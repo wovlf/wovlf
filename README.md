@@ -2,6 +2,7 @@
 
 ## Android Developer  
 ## 📝 Electronic Engineering  
+### <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logo=algorithm&logoColor=white">
 
 [![Solved.ac m_x](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x)
 
