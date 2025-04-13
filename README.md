@@ -1,10 +1,10 @@
 # 최재필 Choi JaePil
 
-## Android Developer  
-📝 Electronic Engineering
+## Android Developer
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x/)
-<br>
+
 
 <br>
 <br>
@@ -29,7 +29,7 @@
 [2025.01.15 ~ ing] SSAFY 13th Mobile Track
 <br>
 <br>
-## ✨ Language & Framework & Library 
+##  
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
