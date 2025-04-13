@@ -4,7 +4,7 @@
 ## 📝 Electronic Engineering
  <br>
 <br>
-[![Solved.ac m_x](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x)\
+[![Solved.ac m_x](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x)
 <br>
 <br>
 [2022.08 ~ 2023.12] 세명대학교 전자공학과 동아리 MX 회장 
