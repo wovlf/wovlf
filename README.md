@@ -1,8 +1,6 @@
 # 최재필 Choi JaePil
 
  👩‍💻 Android Developer  
- <br>
-<br>
  📝 Electronic Engineering
  <br>
 <br>
