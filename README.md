@@ -3,7 +3,7 @@
 ## 💻 Android Developer  
 ## 📝 Electronic Engineering  
 
-[![Solved.ac m_x](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x)
+[![Solved.ac m_x](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wovlf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
