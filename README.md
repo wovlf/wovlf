@@ -1,7 +1,11 @@
 # 최재필 Choi JaePil
 
-## 👩‍💻 Android Developer  
-## 📝 Electronic Engineering
+ 👩‍💻 Android Developer  
+ <br>
+<br>
+ 📝 Electronic Engineering
+ <br>
+<br>
 [![Solved.ac m_x](http://mazassumnida.wtf/api/v2/generate_badge?boj=m_x)](https://solved.ac/m_x)\
 <br>
 <br>
