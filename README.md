@@ -1,6 +1,6 @@
 # 최재필 Choi JaePil
 
-<img src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"> Android Developer  
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white/> Android Developer  
  📝 Electronic Engineering
  <br>
 <br>
