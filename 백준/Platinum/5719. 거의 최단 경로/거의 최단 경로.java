@@ -55,7 +55,6 @@ public class Main
         static void search(ArrayList<Integer> list2, int index){
             for(Integer i : list2){
                 if(!visited[i][index]){
-                    list[i].removeIf(n -> n.index == index && n.num == dist[index] - dist[i]);
                     visited[i][index] = true;
                     search(prev[i], i);
                 }
@@ -78,7 +77,7 @@ public class Main
                 }
 
                 for(Node no : list[node.index]){
-                    if(dist[no.index] > dist[node.index] + no.num){
+                    if(dist[no.index] > dist[node.index] + no.num && !visited[node.index][no.index]){
                         dist[no.index] = dist[node.index] + no.num;
                         queue.add(new Node(no.index, dist[no.index]));
                     }
@@ -123,16 +122,6 @@ public class Main
                 }
 
                 BFS(s,d);
-//                for(int i = 0;i<n;i++){
-//                    for(Node node : list[i]){
-//                        System.out.println(i + " " + node.index + " " + node.num + " ");
-//                    }
-//                    System.out.println();
-//                }
-//
-//                for(int i = 0;i<n;i++){
-//                    System.out.print(visited[i] + " ");
-//                }
                 Arrays.fill(dist, Integer.MAX_VALUE);
                 BFS2(s,d);
 
