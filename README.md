@@ -20,6 +20,8 @@
     - Backend담당     
 - [2025.10.20 ~ 2025.11.20] SEMES 기업연계 프로젝트 "Vision AI 기반 액막 검사 시스템" (SAFER)
     - Backend, Devops 담당
+- [2025.12 ~ 2026.02] 홀덤펍 매장 통합 시스템 개발(라포이트 홀덤펍)
+    - Backend, Devops 담당
 ---
 
 ## ✨ Language & Framework & Library  
