@@ -25,7 +25,7 @@ public class Main {
         double sum = 0;
         int k = 0;
         for(int i = 0;i<ch.length;i++){
-            sum = (sum  % 1234567891 ) + (((ch[i] - 96) * Math.pow(31, k)) % 1234567891) % 1234567891;
+            sum = (sum  % 1234567891 ) + (((ch[i] - 96) * Math.pow(31, k) % 1234567891) % 1234567891) % 1234567891;
             k++;
         }
         System.out.println((long)sum);
